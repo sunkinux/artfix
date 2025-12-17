@@ -1,0 +1,7 @@
+{
+  "name": "ArtFix 艺术修复 & 抠图",
+  "description": "专业的艺术作品修复和背景去除工具。使用 AI 修复透视、光影和褶皱，并提取墨迹/颜料以生成透明背景。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
